@@ -4,8 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+My name is Amay Trivedi and I am currently working as a Machine Learning/Deep learning professional. 
+
+I got deeply interested about Jeremy's notes being my forefront go-to. Currently, exploring the Practical Deep Learning course for coders Part 2020 and learning new ideas on the go. I try to implement the problems in different fields for this domain and curate my own dataset.
 
 
+### Contact me
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[amaytrivedi12995@gmail.com](mailto:amaytrivedi12995@gmail.com)
