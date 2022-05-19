@@ -6,15 +6,24 @@
 
 https://amay1212.github.io/Waste-Sorting-using-Fast-Ai/
 
-# Waste Sorting Using Fast AI v2
+# My Blog
 
 
-This notebook is an extension of Waste Sorter by Collindching and parts of code snippets and code cells have been heavily referred with some tweaks from the above mentioned link.
+_powered by [fastpages](https://github.com/fastai/fastpages)_
 
-Primary focus of this notebook to extend the Model's performance by improving the accuracy and reducing the misclassified error which was noticed earlier.
 
-This notebook is built on fast.ai v2 library. More information can be found here https://course.fast.ai/. Current version of Collindching's notebook supported fast ai v1 version. So, some tweaks have been done to support that.
+## What To Do Next?
 
-I ended up achieving 94.1% accuracy, whereas reportedly TrashNet produced around 63% accuracy.
+Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
 
-This project shows how we can leverage fast api to build something powerful with transfer learning approach.
+- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
+
+- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
+
+- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
+
+- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
+
+Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
+
+Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
