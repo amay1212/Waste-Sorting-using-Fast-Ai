@@ -47,7 +47,7 @@ jtd.onReady = function(ready) {
 
 function initSearch() {
     var request = new XMLHttpRequest();
-    request.open('GET', '/Waste-Sorting-using-Fast-Ai/assets/js/search-data.json', true);
+    request.open('GET', '/amay1212.github.io/assets/js/search-data.json', true);
   
     request.onload = function(){
       if (request.status >= 200 && request.status < 400) {
