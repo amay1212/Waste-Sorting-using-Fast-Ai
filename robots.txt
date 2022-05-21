@@ -1,1 +1,1 @@
-Sitemap: https://amay-trivedi.github.io/blog/sitemap.xml
+Sitemap: https://amay-trivedi.github.io/amay-trivedi/sitemap.xml
