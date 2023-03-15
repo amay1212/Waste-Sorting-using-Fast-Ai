@@ -52,8 +52,8 @@
       ,"page1": {
           "title": "About Me",
           "content": "My name is Amay Trivedi and I am currently working as a Machine Learning/Deep learning professional. . I got deeply interested about Jeremy’s notes being my forefront go-to. Currently, exploring the Practical Machine Learning and Deep learning and learning new ideas on the go. I try to implement the problems in different fields for this domain and curate my own dataset. . Contact me . amaytrivedi12995@gmail.com .",
-          "url": "https://amay1212.github.io/amay-trivedi/about/",
-          "relUrl": "/about/",
+          "url": "https://amay1212.github.io/amay-trivedi/_pages/about.html",
+          "relUrl": "/_pages/about.html",
           "date": ""
       }
       
